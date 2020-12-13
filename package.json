@@ -1,0 +1,15 @@
+{
+  "name": "ts-codefix-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Evan Shaw <evan@vendhq.com>",
+  "license": "MIT",
+  "scripts": {
+    "reproduce": "node script.js"
+  },
+  "dependencies": {
+    "@ts-morph/bootstrap": "^0.8.0",
+    "lodash": "4.17.20",
+    "typescript": "4.1.3"
+  }
+}
